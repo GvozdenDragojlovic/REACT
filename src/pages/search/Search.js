@@ -12,7 +12,7 @@ export default function Search() {
 
   return (
     <div>
-      <h2 className='page-title'>Laptopovi with "{query}"</h2>
+      <h2 className='page-title'>Pretraga laptopova "{query}"</h2>
       {error && <p className='error'>{error}</p>}
       {isPending && <p className='loading'>Loading...</p>}
       {data && <LaptopList laptops={data}/>}

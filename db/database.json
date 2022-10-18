@@ -1,0 +1,32 @@
+{
+  "laptops": [
+    {
+      "id": "1",
+      "title": "Lenovo IdeaPad Gaming 3",
+      "photo": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/laptops/matebook-d-16-list.png",
+      "keywords": [
+        "Lenovo",
+        "Gaming",
+        "1600 GTX",
+        "16GB RAM",
+        "WiFi"
+      ],
+      "description": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics",
+      "cpu": "Ryzen 5",
+      "memory": "16 GB"
+    },
+    {
+      "title": "Acer Desire",
+      "photo": "https://m.media-amazon.com/images/I/617LG0fUxJL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "keywords": [
+        "acer",
+        "16GB",
+        "ryzen"
+      ],
+      "description": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics",
+      "cpu": "Ryzen\n",
+      "memory": "16 GB",
+      "id": "LgudPOb"
+    }
+  ]
+}
