@@ -9,7 +9,7 @@ export default function Laptop() {
   
 
   return (
-    <div className='car'>
+    <div className='laptop'>
       {error && <p className='error'>{error}</p>}
       {isPending && <p className='loading'>Loading...</p>}
       {laptop && (

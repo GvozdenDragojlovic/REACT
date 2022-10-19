@@ -1,7 +1,8 @@
 .navbar {
-     background:#0F3460;/*promeniti navbar*/
-    padding: 20px;
+    /*background:#0F3460;/*promeniti navbar*/
+    padding: 30px;
     color: #fff;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 
 .navbar nav {
@@ -14,19 +15,34 @@
 .navbar a.brand {
     margin-right: auto;
     color: #fff;
-    text-decoration: none;
+    text-decoration: bold;
 }
 
 .navbar a:last-child {
-    color: #fff;
+    color: rgb(6, 6, 6);
     text-decoration: none;
+    text-align: center;
     margin-left: 40px;
     padding: 8px;
-    border: 1px solid #fff;
+    border: 3px solid rgb(28, 28, 28);
+    background-color: rgb(91, 19, 19);
     border-radius: 4px;
+    font-weight: 400;
 }
 
 .navbar a:last-child:hover {
-    background: #fff;
+    background: rgb(83, 38, 38);
     color: #333;
+}
+
+.navbar img{
+    width: 100px;
+    height: 100px;
+}
+
+.navbar h1{
+    margin-right: 15cm;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 900;
+    
 }

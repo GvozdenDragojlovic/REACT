@@ -2,31 +2,99 @@
   "laptops": [
     {
       "id": "1",
-      "title": "Lenovo IdeaPad Gaming 3",
-      "photo": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp/laptops/matebook-d-16-list.png",
+      "title": "Lenovo Gaming 3",
+      "photo": "https://laptopmedia.com/wp-content/uploads/2022/04/IdeaPad_Gaming_3_15ARH7_CT1_07.jpg",
       "keywords": [
         "Lenovo",
         "Gaming",
-        "1600 GTX",
+        "GeForce GTX 1650",
         "16GB RAM",
-        "WiFi"
+        "Ryzen 5",
+        "15,6"
       ],
-      "description": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics",
+      "description": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 16GB DDR4 RAM, 256GB SSD storage, and GeForce GTX 1650 Graphics.",
       "cpu": "Ryzen 5",
       "memory": "16 GB"
     },
     {
-      "title": "Acer Desire",
-      "photo": "https://m.media-amazon.com/images/I/617LG0fUxJL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "id": "2",
+      "title": "DELL G15 5510",
+      "photo": "https://www.notebookcheck.net/uploads/tx_nbc2/DellG5-15-5510__2__07.jpg",
       "keywords": [
-        "acer",
-        "16GB",
-        "ryzen"
+        "DELL",
+        "G15 5510",
+        "GeForce GTX 1650",
+        "8GB RAM",
+        "Intel i5",
+        "15,6"
       ],
-      "description": "Powerhouse performance from AMD Ryzen 5 5500U mobile processor, 8GB DDR4 RAM, 256GB SSD storage, and AMD Radeon 7 Graphics",
-      "cpu": "Ryzen\n",
-      "memory": "16 GB",
-      "id": "LgudPOb"
+      "description": "The Dell Gaming G15 5510 has an excellent density of 141 pixels-per-inch, resulting in sharper text and picture quality. Dell Gaming G15 5510 has a cheap price agains competition. It has a very good normal use battery life.",
+      "cpu": "Intel i5",
+      "memory": "8 GB"
+    },
+    {
+      "id": "3",
+      "title": "Lenovo IdeaPad 3",
+      "photo": "https://cdn.devicebeast.com/images/optimised-general/lenovo-ideapad-5-pro-16-2022-1.jpg",
+      "keywords": [
+        "Lenovo",
+        "Ideapad",
+        "RX Vega 8",
+        "8GB RAM",
+        "Ryzen 7",
+        "15,6"
+      ],
+      "description": "Up to an AMD Ryzen™ 7 4700U Mobile Processor—bolstered by powerful memory, storage and graphics options—means this device delivers beyond expectations. What’s more, whether you’re working on the family budget or preparing a spreadsheet, the handy numeric keypad will speed up your productivity.",
+      "cpu": "Ryzen 7",
+      "memory": "8 GB"
+    },
+    {
+      "id": "4",
+      "title": "HP 470 G7",
+      "photo": "https://laptopg7.vn/images/companies/1/san-pham/3091/3091-hp-spectre-x360-convertible-core-i7-7500u-nvidia-geforce-940mx-156-diagonal-uhd-windows-10-1545125373-5.jpg",
+      "keywords": [
+        "HP",
+        "470 G7",
+        "Radeon® 530",
+        "8GB RAM",
+        "Intel i7",
+        "17,3"
+      ],
+      "description": "HP's 470 G7 is a 17.3-inch office notebook made for home and professional use alike.",
+      "cpu": "Intel i7",
+      "memory": "8 GB"
+    },
+    {
+      "id": "5",
+      "title": "Acer Aspire 7",
+      "photo": "https://m.media-amazon.com/images/I/61k-5w5dKIL._SX569_.jpg",
+      "keywords": [
+        "Acer",
+        "Aspire",
+        "GeForce GTX 1650",
+        "8GB RAM",
+        "Ryzen 5",
+        "15,6"
+      ],
+      "description": "The 15.6-inch multimedia all-rounder shines with a powerful AMD Ryzen 5 5500U and Nvidia GeForce GTX 1650. A solid and appealing case protects this laptop and its massive processing capabilities.",
+      "cpu": "Ryzen 5\n",
+      "memory": "8 GB"
+    },
+    {
+      "id": "6",
+      "title": "HP EliteBook 840 G8",
+      "photo": "https://m.media-amazon.com/images/I/71Rweys3P+L._SX522_.jpg",
+      "keywords": [
+        "HP",
+        "EliteBook",
+        "Iris Xe Graphics",
+        "8GB RAM",
+        "Intel i5",
+        "14"
+      ],
+      "description": "Teams work from many locations require a powerful, secure, and durable laptop that connects easily to stay productive. Meet the demands of the multi-task, multi-place, enterprise-business workday with the HP EliteBook 840!",
+      "cpu": "Intel i5",
+      "memory": "8 GB"
     }
   ]
 }

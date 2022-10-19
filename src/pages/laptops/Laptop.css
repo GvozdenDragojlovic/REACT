@@ -1,4 +1,4 @@
-.car {
+.laptop {
     max-width: 1200px;
     margin: 40px auto;
     text-align: center;
@@ -7,31 +7,37 @@
     box-sizing: border-box;
 }
 
-.car ul {
+.laptop ul {
     display: flex;
     padding: 0;
     justify-content: center;
     margin-top: 0;
 }
 
-.car li {
+.laptop li {
     list-style-type: none;
     margin-right: 10px;
-    color:   #0F3460;
+    color:   #851111;
     ;
 }
 
-.car li::after {
+.laptop li::after {
     content: ",";
 }
 
-.car li:last-child::after {
+.laptop li:last-child::after {
     content: ".";
+}
+
+.laptop h2{
+    color: #851111;
 }
 
 .description {
     text-align: left;
     line-height: 1.5em;
+    color: rgb(67, 67, 67);
+    margin-bottom: 30px;
 }
 .card-img-center{
     display: flex;
@@ -43,4 +49,5 @@
     max-height: 350px;
     
 } 
+
 

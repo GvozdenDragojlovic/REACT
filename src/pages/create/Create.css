@@ -8,10 +8,15 @@
     
     display: block;
     margin: 30px 0 10px;
+
+}
+
+.create h2{
+    color: #fff;
 }
 
 .create p {
-    
+
     margin-top: 10px;
     font-size: 0.8em;
 }
@@ -20,11 +25,11 @@
     display: block;
     width: 100px;
     font-size: 1em;
-    color: #fff;
+    color: rgb(34, 33, 33);
     padding: 8px 10px;
     border: 0;
     border-radius: 4px;
-    background-color:  #0F3460;
+    background-color:  #6e1111;
     ;
     cursor: pointer;
     text-decoration: none;

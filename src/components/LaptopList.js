@@ -9,7 +9,7 @@ export default function LaptopList({ laptops }) {
   }
 
   return ( 
-    <div className='car-list'>
+    <div className='laptop-list'>
         {laptops.map(laptop => (
             <div key={laptop.id} className='card'>
                 <h3>{laptop.title}</h3>
@@ -22,7 +22,7 @@ export default function LaptopList({ laptops }) {
                 </div>
                 <p>CPU model: {laptop.cpu}</p>
                 <p>Ram memorija: {laptop.memory}</p>
-                <div>{laptop.description.substring(0, 25)}...</div>
+                <div>{laptop.description.substring(0, 70)}...</div>
                 <Link to={`/laptops/${laptop.id}`}>Detalji</Link>
             </div>
         ))}
